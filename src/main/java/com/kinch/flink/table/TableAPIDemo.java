@@ -329,7 +329,7 @@ public class TableAPIDemo {
         System.out.println("Datagen数据查询创建成功");
 
         // ============================================================
-        // 13. Kafka Connector 使用（重要！）
+        // 13. Kafka Connector 使用
         // ============================================================
         System.out.println("\n========== Kafka Connector SQL ==========");
 
@@ -388,7 +388,7 @@ public class TableAPIDemo {
         */
 
         // ============================================================
-        // 14. Deduplication 去重（重要！）
+        // 14. Deduplication 去重
         // ============================================================
         System.out.println("\n========== Deduplication 去重 ==========");
 
@@ -445,7 +445,7 @@ public class TableAPIDemo {
         printTable(tableEnv, uvPvResult, "UV/PV统计");
 
         // ============================================================
-        // 16. 实时 TopN 排行榜（重要！）
+        // 16. 实时 TopN 排行榜
         // ============================================================
         System.out.println("\n========== 实时 TopN 排行榜 ==========");
 
